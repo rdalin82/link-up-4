@@ -1,0 +1,19 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    io-console (0.4.8)
+    minitest (5.12.2)
+    rake (13.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  io-console
+  minitest
+  rake
+
+BUNDLED WITH
+   2.0.2
