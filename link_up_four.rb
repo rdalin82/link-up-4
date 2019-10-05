@@ -1,3 +1,3 @@
-require_relative 'classes/game'
+require_relative 'lib/game'
 
 LinkUpFour::Game.new.start
